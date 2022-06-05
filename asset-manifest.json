@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65b305d4.css",
+    "main.js": "/static/js/main.1ac8afc1.js",
+    "static/media/browpro_home.jpg": "/static/media/browpro_home.d6fae47c8467f3473ee1.jpg",
+    "static/media/about2.jpg": "/static/media/about2.9d02216d8902d0a86935.jpg",
+    "static/media/about3.jpg": "/static/media/about3.4374193f251ceaa7d248.jpg",
+    "static/media/about1.jpg": "/static/media/about1.b78eebe92b7741c896dc.jpg",
+    "static/media/hairOilTreatment.jpeg": "/static/media/hairOilTreatment.3dc8eaa30d7cea7e1b7d.jpeg",
+    "static/media/threading.jpeg": "/static/media/threading.40d397d54e85bdb988ba.jpeg",
+    "static/media/lamination.jpeg": "/static/media/lamination.1ae60fec4683eb551cdb.jpeg",
+    "static/media/extension.jpeg": "/static/media/extension.5f9ad95da0ded6d9faab.jpeg",
+    "static/media/earCandeling.jpeg": "/static/media/earCandeling.e69c1b51905760f9aef9.jpeg",
+    "static/media/facial.jpeg": "/static/media/facial.768d07bddbe890552735.jpeg",
+    "static/media/waxing.jpeg": "/static/media/waxing.78e40d57b55ea1e3c24b.jpeg",
+    "static/media/tinting.jpeg": "/static/media/tinting.52c197e5f0fa817f15fd.jpeg",
+    "index.html": "/index.html",
+    "main.65b305d4.css.map": "/static/css/main.65b305d4.css.map",
+    "main.1ac8afc1.js.map": "/static/js/main.1ac8afc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b305d4.css",
+    "static/js/main.1ac8afc1.js"
+  ]
+}
