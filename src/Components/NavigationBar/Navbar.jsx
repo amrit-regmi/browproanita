@@ -41,11 +41,6 @@ const Navbar = (props) => {
       return () => window.removeEventListener("scroll", onScroll);
     }, []);
 
-    useEffect(() => {
-      alert("This page is still under construction, information displayed here might not be up to date, please contact us if you have any questions. ")
-
-    },[])
-
 
   return (
     <div className={isShrunk? "navBar navBarShrunk":"navBar"}>
