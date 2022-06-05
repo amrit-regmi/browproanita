@@ -26,11 +26,19 @@ code {
 .App-link {
   color: #61dafb;
 }
+.topBar{
+  height: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.facebookFollow{
+ height:20px;
+ padding: 5px;
 
+}
 .navBar {
   position: sticky;
   top: 0%;
-  margin-top: 2vw;
   display: flex;
   align-items: center;
   flex-direction: row;

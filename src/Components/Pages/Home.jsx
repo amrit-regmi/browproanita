@@ -13,7 +13,7 @@ const Home = () => {
         <div className='welcome'>
           Welcome
         </div>
-        <a className='appointmentBtn' href="tel:+05890000111">
+        <a className='appointmentBtn' href="tel:+1 904-746-7095">
           <i className="fa fa-phone" aria-hidden="true"></i> <span style={{paddingLeft:"10px"}}>Book Appointment</span> 
         </a>
       </div>
