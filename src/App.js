@@ -16,7 +16,9 @@ const  App =() =>  {
     <Home/>
     <AboutUs />
     <Services/>
-    <ContactUs/></>
+    <ContactUs/>
+    <div style={{width:"100%" , textAlign: "center"}}>Copyright © 2022 Brow Pro | All Rights Reserved</div>
+    </>
     
   );
 }
