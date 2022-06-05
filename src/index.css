@@ -305,7 +305,7 @@ code {
   font-size: 2rem;
   text-align: center;
   background-color: white;
-  padding-bottom: 200px;
+
   
 }
 
@@ -361,9 +361,14 @@ code {
 .pin-icon {
   transform: translate(-50%, -50%);
   position: absolute;
-  font-size: 4rem;
+  font-size: 50px ;
+  
 }
 
 .pin-text {
-  font-size: 1.3em;
+  transform: translate(-50%, -50%);
+  padding-left :250px;
+  width:200px;
+  position: absolute;
+  font-size: 15px;
 }
