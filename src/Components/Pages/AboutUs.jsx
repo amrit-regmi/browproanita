@@ -9,11 +9,14 @@ const AboutUs =(props, ref) => {
     <div className='page'>
       <div className='content aboutUs'>
         <div className='pageTitle'>About Us</div>
-        <div className='pageContent'>
+        <div className='pageContent' >
         Brow pro started its service in  2022 with the aim to provide quality professional beauty services to the people at much affordable prices. It is owned by experinced professional cosmetologist Anita Sharma who has more than 14 years of experience. Making others feel beautiful has always been a passion for Anita, and she puts that passion to work in her business.
-<br/>At Brow pro every customers need is treated individaully and is committed to providing quality professional services in a comfortable, clean and relaxed setting. Our mission is to exceed client expectations by providing excellent service. We take pride in every service we offer and value each client that enters our salon.
+<br/>At Brow pro every customers need is treated individaully and is committed to providing quality professional services in a comfortable, clean and relaxed setting. 
+
+<br/>
 
         </div>
+        <div className='pageContent'><q style={{fontSize:"1.6em"}}>Our mission is to exceed client expectations by providing excellent service. We take pride in every service we offer and value each client that enters our salon. </q> - Anita</div>
         <div className="aboutImages" 
         > 
         
