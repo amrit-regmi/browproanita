@@ -27,7 +27,7 @@ const ContactUs = () => {
             <div className="openingHoursContainer"><span className='openingHours'>Opening hours:</span>
         
             <div>Monday to Saturday</div>
-            <div>10:00 AM - 07:00 PM</div>
+            <div>10:00 AM - 06:00 PM</div>
           
             <div style={{marginTop:10}}>Sunday</div>
             <div><strong>Closed</strong></div>
